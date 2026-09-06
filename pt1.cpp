@@ -17,4 +17,5 @@ cout <<"not prime";
         }
         cout<<"prime";
     } 
+    cout << "Prime number program";
 }
